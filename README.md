@@ -16,3 +16,7 @@ Deliverables:
 A fully functional iOS native app that wraps our Progressive Web Application (PWA) seamlessly.
 App Store-ready package that meets Apple's submission requirements.
 Documentation outlining the wrapping process, including steps for maintenance and updates.
+
+# Video For Demo
+
+https://drive.google.com/file/d/1eMFbqgQiajVSaOkbED2FljFBI3cIOi0o/view?usp=sharing
